@@ -1,0 +1,8 @@
+D:\Documents\Job search\Software\Illy\Scenario\ValidationLibrary\bin\Debug\netstandard2.0\ValidationLibrary.deps.json
+D:\Documents\Job search\Software\Illy\Scenario\ValidationLibrary\bin\Debug\netstandard2.0\ValidationLibrary.dll
+D:\Documents\Job search\Software\Illy\Scenario\ValidationLibrary\bin\Debug\netstandard2.0\ValidationLibrary.pdb
+D:\Documents\Job search\Software\Illy\Scenario\ValidationLibrary\obj\Debug\netstandard2.0\ValidationLibrary.csprojAssemblyReference.cache
+D:\Documents\Job search\Software\Illy\Scenario\ValidationLibrary\obj\Debug\netstandard2.0\ValidationLibrary.AssemblyInfoInputs.cache
+D:\Documents\Job search\Software\Illy\Scenario\ValidationLibrary\obj\Debug\netstandard2.0\ValidationLibrary.AssemblyInfo.cs
+D:\Documents\Job search\Software\Illy\Scenario\ValidationLibrary\obj\Debug\netstandard2.0\ValidationLibrary.dll
+D:\Documents\Job search\Software\Illy\Scenario\ValidationLibrary\obj\Debug\netstandard2.0\ValidationLibrary.pdb
